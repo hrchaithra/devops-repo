@@ -1,2 +1,2 @@
 # devops-repo
-This repository is dedicated to devops
+hello form my git/github demo
